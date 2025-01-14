@@ -1,0 +1,41 @@
+[ROTEIRO DO PODCAST: SAGA NEURAL]
+[INTRODUÇÃO]
+E aí, meus queridos exploradores digitais! Tudo tranquilo? Hoje a gente vai mergulhar de cabeça nos mistérios de uma das maiores inovações do nosso tempo: o ChatGPT! Você já se perguntou como uma inteligência artificial pode responder tudo, desde piadas ruins até conselhos de vida? Pois bem, prepare-se para descobrir! Meu nome é Betinho, e esse é o "Saga Neural", o lugar onde exploramos os reinos da mente digital! Então, bora começar?
+
+[CURIOSIDADE 1 – SOBRE CHATGPT]
+Você sabia que o ChatGPT é como um "livro vivo" que aprende a responder com base em textos que foram escritos por pessoas de verdade? Ele foi treinado em bilhões de palavras, mas não acessa a internet em tempo real. Isso significa que, mesmo sendo superinteligente, ele não sabe o que você comeu no café da manhã – mas pode adivinhar receitas incríveis pra você testar. Ah, e o mais curioso? Ele não pensa, ele só organiza informações como um quebra-cabeça gigante. Maneiro, né?
+
+[CURIOSIDADE 2 – SOBRE UMA FERRAMENTA DE IA]
+Agora, falando em ferramentas de IA, já ouviu falar do "DALL-E"? Essa maravilha é como o primo criativo do ChatGPT. Em vez de responder perguntas, ele cria imagens com base no que você descreve. Quer uma pintura de um gato astronauta? Ele faz. Um dragão tomando café no espaço? Tá na mão! É o tipo de ferramenta que faz você se sentir no futuro, literalmente criando o impossível em segundos.
+
+[FINALIZAÇÃO]
+E aí, curtiu? Espero que essas curiosidades tenham acendido sua chama nerd por inteligência artificial! Se você quer saber mais ou tem alguma dúvida, não se esqueça de continuar acompanhando o Saga Neural. Eu sou Betinho e esse foi o episódio dessa semana. Nos vemos no próximo, valeu e até mais! 🚀
+
+
+Projeto Podcast Gerado por I.A.s
+ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+💻 Tecnologias utilizadas no projeto
+ChatGPT
+MidJourney
+ElevenLabs
+Capcut
+✨ Como foi feito ?
+Roteiro gerado via chatgpt
+Audio gerado pela elevenLabs
+Midjourney Para gerar capas
+Capcut para tratar aúdio e adicionar sons de fundo
+📚 Materiais
+Link da live no Youtube
+Notion Template
+Editor de aúdio
+🛠️ Instruções de execução
+Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+🤖 1. Use os prompts de roteiro no chagpt
+🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+🤖 3. Use os prompts de artes no midjourney
